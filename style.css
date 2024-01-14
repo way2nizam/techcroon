@@ -53,3 +53,12 @@ p {
   font-family: 'Muli', sans-serif;
   font-weight: normal;
 }
+
+.logo {
+  text-align: center;
+  padding-top: 230px;
+}
+
+.logo-img {
+  width: 18%;
+}
