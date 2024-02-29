@@ -58,7 +58,7 @@
             style="width: 120px; min-height: auto !important; color: white"
             label="Team"
           />
-          <q-tab
+          <!-- <q-tab
             :style="[
               selected_tab == 't_5' ? { backgroundColor: theme_color } : {},
             ]"
@@ -66,7 +66,7 @@
             @click="scrollToElement('id_pricing')"
             style="width: 120px; min-height: auto !important; color: white"
             label="Pricing"
-          />
+          /> -->
           <q-tab
             :style="[
               selected_tab == 't_6' ? { backgroundColor: theme_color } : {},
@@ -320,14 +320,15 @@
             style="background-color: #000000ad !important"
           >
             <h3 class="text-white text-center">
-              Lorem ipsum dolor sit amet, consectetur <br />adipiscing elit, sed
-              do eiusmod tempor incididunt ut <br />
-              labore et dolore magna aliqua.
+              Top-tier software company specializing in innovative website
+              <br />
+              and app development, delivering unparalleled quality and
+              user-centric <br />solutions for businesses.
               <br />
               <br />
               <q-btn
                 type="a"
-                href="https://github.com/sponsors/mayank091193"
+                href="#"
                 size="lg"
                 :style="'background:' + theme_color + '; color: white'"
                 label="Support Me"
@@ -343,8 +344,9 @@
                 Our Portfolio
                 <br />
                 <span class="text-center text-grey text-h6"
-                  >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do.</span
+                  >Explore our diverse portfolio showcasing innovative website
+                  and app solutions tailored for success in today's digital
+                  landscape.</span
                 >
               </h5>
             </div>
@@ -417,7 +419,9 @@
               About Us
               <br />
               <span class="text-center text-grey text-h6"
-                >Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span
+                >We are Techcroon, dedicated to crafting innovative software
+                solutions that empower businesses to thrive in the digital era.
+                Discover excellence with us.</span
               >
             </h5>
           </div>
@@ -438,18 +442,18 @@
                 <q-img src="/statics/images/about_1.jpg" />
 
                 <q-card-section>
-                  <div class="text-overline text-orange-9">Overline</div>
+                  <div class="text-overline text-orange-9">1</div>
                   <div
                     :class="about_heading_1"
                     :style="'color: ' + about_heading_color_1"
                     class="about_heading_1 text-h6 q-mt-sm q-mb-xs"
                   >
-                    OFFICE PHILOSOPHY
+                    Communication
                   </div>
                   <div class="text-caption text-grey-9">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                    Prioritize clear and transparent communication to understand
+                    client needs, provide updates, and address concerns
+                    promptly.
                   </div>
                 </q-card-section>
               </q-card>
@@ -467,18 +471,18 @@
                 <q-img src="/statics/images/about_2.jpg" />
 
                 <q-card-section>
-                  <div class="text-overline text-orange-9">Overline</div>
+                  <div class="text-overline text-orange-9">2</div>
                   <div
                     :class="about_heading_2"
                     :style="'color: ' + about_heading_color_2"
                     class="text-h6 q-mt-sm q-mb-xs"
                   >
-                    OFFICE MISSION
+                    Collaboration
                   </div>
                   <div class="text-caption text-grey-9">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                    Foster a collaborative relationship with clients, involving
+                    them in the development process to ensure alignment with
+                    their vision and goals.
                   </div>
                 </q-card-section>
               </q-card>
@@ -495,18 +499,18 @@
                 <q-img src="/statics/images/about_3.jpg" />
 
                 <q-card-section>
-                  <div class="text-overline text-orange-9">Overline</div>
+                  <div class="text-overline text-orange-9">3</div>
                   <div
                     :class="about_heading_3"
                     :style="'color: ' + about_heading_color_3"
                     class="text-h6 q-mt-sm q-mb-xs"
                   >
-                    OFFICE VALUE & RULES
+                    Adaptability
                   </div>
                   <div class="text-caption text-grey-9">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                    Remain flexible and adaptable to accommodate evolving client
+                    requirements, adjusting strategies and solutions as needed
+                    to deliver optimal results.
                   </div>
                 </q-card-section>
               </q-card>
@@ -654,8 +658,10 @@
                       >AI</q-item-label
                     >
                     <q-item-label class="text-grey-8"
-                      >Lorem ipsum dolor sit amet, consectetur adipiscing
-                      elit.</q-item-label
+                      >Discover the power of AI with our cutting-edge chatbot
+                      and AI services. Transform your customer interactions and
+                      streamline operations with our innovative
+                      solutions.</q-item-label
                     >
                   </q-item-section>
                 </q-item>
@@ -696,9 +702,9 @@
                   ><br /><span class="text-overline">Organization Founder</span>
                 </div>
                 <div class="q-mt-md text-h6 text-center">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut<br />
-                  labore et dolore magna aliqua.
+                  Exceptional service! Techcroon went above and beyond to
+                  deliver a tailored solution <br />that exceeded our
+                  expectations.
                 </div>
               </q-carousel-slide>
               <q-carousel-slide
@@ -716,13 +722,12 @@
                   height="150"
                 />
                 <div class="q-mt-md text-h6 text-center">
-                  <span :style="'color:' + theme_color">John Doe</span
+                  <span :style="'color:' + theme_color">Sarah L</span
                   ><br /><span class="text-overline">Lead Developer</span>
                 </div>
                 <div class="q-mt-md text-h6 text-center">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut<br />
-                  labore et dolore magna aliqua.
+                  Impressed by their professionalism and attention to detail.
+                  Our project was completed on time and within budget.
                 </div>
               </q-carousel-slide>
               <q-carousel-slide
@@ -744,9 +749,9 @@
                   ><br /><span class="text-overline">Product Owner</span>
                 </div>
                 <div class="q-mt-md text-h6 text-center">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut<br />
-                  labore et dolore magna aliqua.
+                  Working with Techcroon was a pleasure. Their team's expertise
+                  and dedication ensured a seamless experience <br />from start
+                  to finish.
                 </div>
               </q-carousel-slide>
             </q-carousel>
@@ -758,7 +763,9 @@
               Our Team
               <br />
               <span class="text-center text-grey text-h6"
-                >Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span
+                >Our team comprises seasoned professionals dedicated to
+                excellence in software development, design, and project
+                management. Meet the experts behind our success.</span
               >
             </h5>
           </div>
@@ -851,7 +858,7 @@
             </q-carousel>
           </div>
         </div>
-        <div class="pricing" id="id_pricing">
+        <!-- <div class="pricing" id="id_pricing">
           <div class="" style="background-color: #000000ad !important">
             <div class="row">
               <div class="col-md-12 col-lg-12 col-xs-12 col-sm-12">
@@ -1046,14 +1053,15 @@
             <br />
             <br />
           </div>
-        </div>
+        </div> -->
         <div class="row" id="id_news">
           <div class="col-md-12 col-lg-12 col-xs-12 col-sm-12">
             <h5 class="text-center">
               Latest News
               <br />
               <span class="text-center text-grey text-h6"
-                >Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span
+                >Stay Informed with the Latest News from the Software
+                Industry</span
               >
             </h5>
           </div>
@@ -1079,12 +1087,11 @@
                     :style="'color: ' + about_heading_color_1"
                     class="about_heading_1 text-h6 q-mt-sm q-mb-xs"
                   >
-                    LATEST NEWS 1
+                    Revolutionizing Software Development
                   </div>
                   <div class="text-caption text-grey-9 q-mt-sm">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                    Revolutionizing Software Development: How AI is Shaping the
+                    Future of Tech Companies
                   </div>
                   <div>
                     <br />
@@ -1115,12 +1122,11 @@
                     :style="'color: ' + about_heading_color_2"
                     class="text-h6 q-mt-sm q-mb-xs"
                   >
-                    LATEST NEWS 2
+                    Navigating Cybersecurity Challenges
                   </div>
                   <div class="text-caption text-grey-9 q-mt-sm">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                    Navigating Cybersecurity Challenges: Insights from Leading
+                    Software Companies.
                   </div>
                   <div>
                     <br />
@@ -1150,12 +1156,11 @@
                     :style="'color: ' + about_heading_color_3"
                     class="text-h6 q-mt-sm q-mb-xs"
                   >
-                    LATEST NEWS 3
+                    Agile Methodologies
                   </div>
                   <div class="text-caption text-grey-9 q-mt-sm">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                    Agile Methodologies: Streamlining Software Delivery for
+                    Modern Companies.
                   </div>
                   <div>
                     <br />
@@ -1180,8 +1185,8 @@
                   Contact Us
                   <br />
                   <span class="text-center text-grey text-h6"
-                    >Lorem ipsum dolor sit amet, consectetur adipiscing
-                    elit.</span
+                    >Get in Touch: Reach Out to Techcroon for Expert Software
+                    Solutions and Support.</span
                   >
                 </h5>
               </div>
