@@ -246,12 +246,11 @@
                   name="ballot"
                   :style="'color:' + theme_color"
                 />
-                <div class="text-h6">Web &nbsp;Design</div>
+                <div class="text-h6">Website Development</div>
               </q-card-section>
 
               <q-card-section class="q-pt-none">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt.
+                Elevating your online presence through expert web development.
               </q-card-section>
             </q-card>
           </div>
@@ -266,12 +265,12 @@
                   name="view_comfy"
                   :style="'color:' + theme_color"
                 />
-                <div class="text-h6">Graphics Design</div>
+                <div class="text-h6">App Development</div>
               </q-card-section>
 
               <q-card-section class="q-pt-none">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt.
+                Transforming ideas into intuitive and impactful mobile
+                experiences.
               </q-card-section>
             </q-card>
           </div>
@@ -286,12 +285,11 @@
                   name="people"
                   :style="'color:' + theme_color"
                 />
-                <div class="text-h6">Wordpress Theme</div>
+                <div class="text-h6">Software Development</div>
               </q-card-section>
 
               <q-card-section class="q-pt-none">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt.
+                Bringing visions to life through captivating graphic design.
               </q-card-section>
             </q-card>
           </div>
@@ -307,12 +305,11 @@
                   name="people"
                   :style="'color:' + theme_color"
                 />
-                <div class="text-h6">Wordpress Plugin</div>
+                <div class="text-h6">Graphic Design</div>
               </q-card-section>
 
               <q-card-section class="q-pt-none">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt.
+                Bringing visions to life through captivating graphic design.
               </q-card-section>
             </q-card>
           </div>
@@ -522,11 +519,11 @@
           <div class="row">
             <div class="col-md-12 col-lg-12 col-xs-12 col-sm-12">
               <h5 class="text-center">
-                Our Services
+                What We Do
                 <br />
                 <span class="text-center text-grey text-h6"
-                  >Lorem ipsum dolor sit amet, consectetur adipiscing
-                  elit.</span
+                  >From concept to completion, We deliver end-to-end solutions
+                  for websites and apps.</span
                 >
               </h5>
             </div>
@@ -544,11 +541,13 @@
                   </q-item-section>
                   <q-item-section class="q-pa-md q-ml-none">
                     <q-item-label class="text-h6 text-grey-9 text-uppercase"
-                      >Blockchain</q-item-label
+                      >Website Development</q-item-label
                     >
                     <q-item-label class="text-grey-8"
-                      >Lorem ipsum dolor sit amet, consectetur adipiscing
-                      elit.</q-item-label
+                      >Delivering tailored website development services, we
+                      craft unique digital experiences that align with your
+                      goals, enhance user engagement, and drive business growth
+                      effectively.</q-item-label
                     >
                   </q-item-section>
                 </q-item>
@@ -564,11 +563,12 @@
                   </q-item-section>
                   <q-item-section class="q-pa-md q-ml-none">
                     <q-item-label class="text-h6 text-grey-9 text-uppercase"
-                      >Web Design</q-item-label
+                      >App Development</q-item-label
                     >
                     <q-item-label class="text-grey-8"
-                      >Lorem ipsum dolor sit amet, consectetur adipiscing
-                      elit.</q-item-label
+                      >Crafting innovative mobile apps tailored to your needs,
+                      delivering seamless user experiences and driving business
+                      success in the fast-paced digital landscape.</q-item-label
                     >
                   </q-item-section>
                 </q-item>
@@ -580,15 +580,16 @@
                     :style="'background-color:' + theme_color"
                     class="q-pa-sm q-mr-none text-white"
                   >
-                    <q-icon name="fab fa-wordpress" size="65px"></q-icon>
+                    <q-icon name="settings" size="65px"></q-icon>
                   </q-item-section>
                   <q-item-section class="q-pa-md q-ml-none">
                     <q-item-label class="text-h6 text-grey-9 text-uppercase"
-                      >Wordpress</q-item-label
+                      >Software Development</q-item-label
                     >
                     <q-item-label class="text-grey-8"
-                      >Lorem ipsum dolor sit amet, consectetur adipiscing
-                      elit.</q-item-label
+                      >Empowering businesses with bespoke software solutions, we
+                      specialize in crafting robust, scalable, and innovative
+                      software to drive efficiency and growth.</q-item-label
                     >
                   </q-item-section>
                 </q-item>
@@ -606,11 +607,13 @@
                   </q-item-section>
                   <q-item-section class="q-pa-md q-ml-none">
                     <q-item-label class="text-h6 text-grey-9 text-uppercase"
-                      >DevOps</q-item-label
+                      >Graphic Design</q-item-label
                     >
                     <q-item-label class="text-grey-8"
-                      >Lorem ipsum dolor sit amet, consectetur adipiscing
-                      elit.</q-item-label
+                      >Elevating brands with captivating graphic design
+                      solutions, we offer creative expertise to visually
+                      communicate your message and leave a lasting
+                      impression.</q-item-label
                     >
                   </q-item-section>
                 </q-item>
@@ -626,11 +629,13 @@
                   </q-item-section>
                   <q-item-section class="q-pa-md q-ml-none">
                     <q-item-label class="text-h6 text-grey-9 text-uppercase"
-                      >Big Data</q-item-label
+                      >SEO/SMO</q-item-label
                     >
                     <q-item-label class="text-grey-8"
-                      >Lorem ipsum dolor sit amet, consectetur adipiscing
-                      elit.</q-item-label
+                      >Boosting online visibility and engagement, our SEO and
+                      SMO services optimize your digital presence, driving
+                      traffic, and enhancing brand awareness across
+                      platforms.</q-item-label
                     >
                   </q-item-section>
                 </q-item>
