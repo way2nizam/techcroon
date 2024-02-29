@@ -1,11 +1,11 @@
 {
-  "name": "vue-quasar-company-profile-website",
+  "name": "Techcroon",
   "version": "0.0.1",
-  "description": "Free template for office website.",
-  "productName": "Company Profile Website Using Quasar",
+  "description": "Techcroon - Tech Solution Done Right Here",
+  "productName": "Company Profile Website",
   "cordovaId": "org.cordova.quasar.app",
   "capacitorId": "",
-  "author": "Mayank Patel",
+  "author": "Nizam",
   "private": true,
   "scripts": {
     "test": "echo \"No test specified\" && exit 0"
