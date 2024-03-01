@@ -152,7 +152,7 @@
                 </div>
                 <br /><br /><br />
                 <div class="text-h4 animation_1">
-                  where the pursuit of perfection meets innovation, fostering a
+                  Where the pursuit of perfection meets innovation, fostering a
                   culture of success for all.
                 </div>
                 <br /><br /><br />
@@ -186,8 +186,8 @@
                 <br /><br /><br />
                 <div class="text-h4 animation_1">
                   Discover unparalleled excellence in software solutions,
-                  setting new standards for success with our innovative approach
-                  and dedicated team.
+                  setting new standards <br />for success with our innovative
+                  approach and dedicated team.
                 </div>
                 <br /><br /><br />
                 <div class="animation_2">
@@ -220,8 +220,8 @@
                 <br /><br /><br />
                 <div class="text-h4 animation_1">
                   Experience the epitome of success with our software, where
-                  every achievement is celebrated and every milestone marks
-                  excellence.
+                  every achievement is celebrated <br />and every milestone
+                  marks excellence.
                 </div>
                 <br /><br /><br />
                 <div class="animation_2">
@@ -321,9 +321,8 @@
             style="background-color: #000000ad !important"
           >
             <h3 class="text-white text-center">
-              Top-tier software company specializing in innovative website and
-              app development.
-              <br />
+              Top-tier software company specializing in innovative website
+              <br />and app development.
               <!-- delivering unparalleled quality and
               user-centric <br />solutions for businesses. -->
               <br />
