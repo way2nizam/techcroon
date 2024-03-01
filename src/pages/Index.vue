@@ -152,9 +152,8 @@
                 </div>
                 <br /><br /><br />
                 <div class="text-h4 animation_1">
-                  The Web as I envisaged it, we have not seen it yet. The
-                  future<br />
-                  is still so much bigger than the past.
+                  where the pursuit of perfection meets innovation, fostering a
+                  culture of success for all.
                 </div>
                 <br /><br /><br />
                 <div class="animation_2">
@@ -186,8 +185,9 @@
                 </div>
                 <br /><br /><br />
                 <div class="text-h4 animation_1">
-                  A man who dares to waste one hour of time has <br />not
-                  discovered the value of life.
+                  Discover unparalleled excellence in software solutions,
+                  setting new standards for success with our innovative approach
+                  and dedicated team.
                 </div>
                 <br /><br /><br />
                 <div class="animation_2">
@@ -219,8 +219,9 @@
                 </div>
                 <br /><br /><br />
                 <div class="text-h4 animation_1">
-                  We have to stop optimizing for programmers and <br />start
-                  optimizing for users.
+                  Experience the epitome of success with our software, where
+                  every achievement is celebrated and every milestone marks
+                  excellence.
                 </div>
                 <br /><br /><br />
                 <div class="animation_2">
@@ -320,10 +321,11 @@
             style="background-color: #000000ad !important"
           >
             <h3 class="text-white text-center">
-              Top-tier software company specializing in innovative website
+              Top-tier software company specializing in innovative website and
+              app development.
               <br />
-              and app development, delivering unparalleled quality and
-              user-centric <br />solutions for businesses.
+              <!-- delivering unparalleled quality and
+              user-centric <br />solutions for businesses. -->
               <br />
               <br />
               <q-btn
@@ -331,7 +333,7 @@
                 href="#"
                 size="lg"
                 :style="'background:' + theme_color + '; color: white'"
-                label="Support Me"
+                label="Support Us"
               />
             </h3>
           </div>
@@ -345,8 +347,7 @@
                 <br />
                 <span class="text-center text-grey text-h6"
                   >Explore our diverse portfolio showcasing innovative website
-                  and app solutions tailored for success in today's digital
-                  landscape.</span
+                  and app solutions.</span
                 >
               </h5>
             </div>
@@ -420,8 +421,7 @@
               <br />
               <span class="text-center text-grey text-h6"
                 >We are Techcroon, dedicated to crafting innovative software
-                solutions that empower businesses to thrive in the digital era.
-                Discover excellence with us.</span
+                solutions that empower businesses.</span
               >
             </h5>
           </div>
@@ -763,9 +763,7 @@
               Our Team
               <br />
               <span class="text-center text-grey text-h6"
-                >Our team comprises seasoned professionals dedicated to
-                excellence in software development, design, and project
-                management. Meet the experts behind our success.</span
+                >Meet the experts behind our success.</span
               >
             </h5>
           </div>
