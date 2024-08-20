@@ -15,6 +15,7 @@
         <!-- <q-btn class="q-mr-md" size="12px" :style="'min-height:auto !important;background:'+ theme_color +'; color: white; padding:1px'" dense icon="color_lens"> -->
         
           <!-- </q-btn> -->
+           <!-- Testing appophile commit -->
       </q-tabs>
         
       </q-toolbar>
